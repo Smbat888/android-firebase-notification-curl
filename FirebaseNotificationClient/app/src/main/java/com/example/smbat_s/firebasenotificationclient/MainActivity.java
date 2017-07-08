@@ -20,8 +20,8 @@ import okhttp3.Response;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String SERVER_KEY = "AAAAE3vzC34:APA91bHyysHVQbtKHeOG3iHDGChU2kNHLJCH0CR1h9Z2YaK9kYpEADqCNjF7JX31cOEB8QoNmT3h_gSqQiM8P5qOenwn-HrNcEWMmviB1iqRNdKjy7WceiVaqGUGsbdhouR5dbjSfPFL";
-    private static final String ID_TOKEN = "dHnsXislNQI:APA91bFpswyS_dC6iLlQH7DfrSUa9BWrIwAtyo_a-KvGWN6HQlCtPPWZns4sz7MmWGcCdhcrjT2B3xfd3nSmKUlYH5P1e5VztvfLdvfhiUlhdLr7QCuqeEK3yd3j2AVwCcV-ex__5IZ9";
+    private static final String SERVER_KEY = "XXXXX";
+    private static final String ID_TOKEN = "XXXXXYYYY";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
